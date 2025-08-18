@@ -2,7 +2,7 @@
 
 # Change to input file directory
 INPUT_DIR="~/Path/to/gpx/directory/this/checked/in/recursion"
-# Change to do cloned directory path
+
 CSV_DIR="~/Heatmap/csv_output"
 COMBINED="~/Heatmap/combined.csv"
 
