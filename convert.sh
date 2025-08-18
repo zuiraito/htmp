@@ -1,8 +1,10 @@
 #!/bin/bash
 
+# Change to input file directory
 INPUT_DIR="~/Path/to/gpx/directory/this/checked/in/recursion"
-CSV_DIR="/home/rangi/Code/Heatmap/csv_output"
-COMBINED="/home/rangi/Code/Heatmap/combined.csv"
+# Change to do cloned directory path
+CSV_DIR="~/Heatmap/csv_output"
+COMBINED="~/Heatmap/combined.csv"
 
 # Start fresh
 rm -rf "$CSV_DIR"
