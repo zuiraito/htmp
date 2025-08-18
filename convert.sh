@@ -1,8 +1,6 @@
 #!/bin/bash
 
- #INPUT_DIR="/home/rangi/Notizen/GPX/Activities"
- INPUT_DIR="/home/rangi/Notizen/GPX/Logging"
- #INPUT_DIR="/home/rangi/Notizen/GPX/"
+INPUT_DIR="~/Path/to/gpx/directory/this/checked/in/recursion"
 CSV_DIR="/home/rangi/Code/Heatmap/csv_output"
 COMBINED="/home/rangi/Code/Heatmap/combined.csv"
 
